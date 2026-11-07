@@ -5,7 +5,7 @@
 
 - **Nama Lengkap:** [Isi Nama Lengkap Kamu]
 - **Kelompok:** [Isi Nama Kelompok]
-- **Nama Repository:** `Day-1-(Nama_Kelompok)_Nama Lengkap`
+- **Nama Repository:** `Day-1-(Bus_Simulator)_FalahRamadhan`
 
 ## Deskripsi Repository
 
