@@ -1,11 +1,6 @@
 # Day-1--Bus_Simulator-_Falah-Ramadhan
 # Day 1 – Dokumentasi Workshop: Building with AI, Managing Change with GitHub
 
-## Identitas Peserta
-
-- **Nama Lengkap:** [Isi Nama Lengkap Kamu]
-- **Kelompok:** [Isi Nama Kelompok]
-- **Nama Repository:** `Day-1-(Bus_Simulator)_FalahRamadhan`
 
 ## Deskripsi Repository
 
