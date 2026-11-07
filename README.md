@@ -141,15 +141,6 @@ Alur pengerjaan proyek:
 
 ## 3. Pendapat Pribadi tentang Day 1 Proyek Workshop
 
-> *(Silakan sesuaikan dengan pengalaman pribadimu.)*
-
 Menurut saya Day 1 adalah pembuka yang pas karena menggabungkan dua hal yang saling melengkapi: membuat sesuatu dengan bantuan AI, lalu mengelola dan menyimpan hasilnya dengan Git dan GitHub. Sebagai mahasiswa baru, saya sebelumnya mengira prompt hanyalah "bertanya ke AI". Ternyata ada struktur yang membuat hasilnya jauh lebih baik. Bagian Git dan GitHub awalnya terasa banyak istilah baru, tetapi penjelasan tentang tiga area Git dan praktik langsung membuatnya lebih mudah dipahami. Proyek sederhana seperti Student Task Planner juga cocok untuk pemula karena hasilnya langsung terlihat. Harapan saya, di hari-hari berikutnya kami bisa berlatih lebih banyak soal branch, pull request, dan kolaborasi dalam tim.
 
----
 
-## Struktur Repository
-
-```
-.
-└── README.md
-```
